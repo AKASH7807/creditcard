@@ -1,0 +1,49 @@
+@media (max-width:920px){
+    .container form{
+        width: 550px;
+        
+    }
+}
+
+@media (max-width:678px){
+    .container form{
+        width: 420px;
+
+    }
+    .form span{
+        font-size: 16px;
+    }
+
+    input{
+        padding: 5px;
+    }
+    .card-number-box{
+        font-size: 15px !important;
+    }
+
+    .card-container{
+        height: 150px !important;
+    }
+}
+
+
+
+
+@media (max-width:500px){
+    .container form{
+        width: 400px;
+
+    }
+    .form span{
+        font-size: 15px;
+    }
+
+    input{
+        padding: 5px;
+    }
+    .card-number-box{
+        font-size: 14px !important;
+    }
+
+}
+
